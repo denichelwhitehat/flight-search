@@ -1,0 +1,17 @@
+.important:required{
+	border: 1px dashed red;
+	position: relative;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.cc{
+	width: 40%;
+}
+
+.a{
+	color: white;
+	text-decoration: none;
+}
